@@ -1,0 +1,22 @@
+title{
+  font-style: oblique;
+
+}
+body{
+
+div{
+
+  margin-left: auto;
+  margin-right: auto;
+
+  text-align: center;
+
+}
+
+div-relative{
+  left: 180px
+  right:180px
+
+}
+
+}
